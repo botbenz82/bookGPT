@@ -1,0 +1,1 @@
+You only need the title and its author, and Artificial Intelligence takes care of the rest.git 
